@@ -1,0 +1,13 @@
+{
+  "name": "chat-scraper",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/nacmonad/chat-scraper.git",
+  "author": "<shorlacher@gmx.com>",
+  "license": "MIT",
+  "dependencies": {
+    "selenium": "^2.20.0",
+    "selenium-webdriver": "^4.0.0-alpha.1",
+    "socket.io": "^2.1.1"
+  }
+}
