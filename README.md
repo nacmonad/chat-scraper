@@ -23,6 +23,8 @@ Selenium NodeJS Webdriver
 https://github.com/SeleniumHQ/selenium/wiki/WebDriverJs
 https://seleniumhq.github.io/selenium/docs/api/javascript/index.html
 
-HTML5 WebSockets
-https://www.html5rocks.com/en/tutorials/websockets/basics/
+MutationObserver
+https://davidwalsh.name/mutationobserver-api
 
+Socket.io
+https://github.com/socketio/socket.io
