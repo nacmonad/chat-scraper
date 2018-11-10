@@ -12,6 +12,12 @@ Real-time chat-scraping for NLP pipelines using Selenium.
 You need FireFox Geckodriver for browser automation:
 https://github.com/mozilla/geckodriver
 
+*OR
+
+You need Google ChromeDriver
+http://chromedriver.chromium.org/
+
+
 ### Useful References
 Selenium NodeJS Webdriver
 https://github.com/SeleniumHQ/selenium/wiki/WebDriverJs
